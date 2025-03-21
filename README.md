@@ -1,0 +1,2 @@
+# OpenClashConfig
+针对OpenWRT固件环境下，OpenClash的相关指导及配置参数文件修改
