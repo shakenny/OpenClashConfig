@@ -1,5 +1,5 @@
 #正则表达式规则
-DOMAIN-REGEX,^rn\d{2,3}\.xyz$
+#DOMAIN-REGEX,^rn\d{2,3}\.xyz$
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,44yu.cc
