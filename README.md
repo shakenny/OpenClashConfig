@@ -22,21 +22,23 @@
 3. 在 GitHub 上创建了一个私有仓库 如：https://github.com/shakenny/ExcelMasterGUI，并初始化了 .gitignore、README.md 和 LICENSE 文件。
 4. 将本地项目与 GitHub 仓库关联
     4.1 初始化本地 Git 仓库
-    ```
+    ```shell
     cd /Users/kennyyang/Documents/07_Trae_Workspace/ExcelMasterGUI
     git init
     ```
     4.2 关联远程仓库
-    ```
+    ```shell
     git remote add origin https://github.com/shakenny/ExcelMasterGUI.git
     ```
     4.3 拉取远程仓库内容
-    ```
+    ```shell
     git pull origin main
     ```
     4.4 提交本地更改
-    ```
+    ```shell
     git add .
     git commit -m "Initial commit: Connect local project to GitHub"
     git push -u origin main
     ```
+    
+    
