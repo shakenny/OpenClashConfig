@@ -2,3 +2,15 @@
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktok.net
 DOMAIN-SUFFIX,singtel.com
+# 4GTV & Hamivideo
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,ofiii.com
+# MytvSuper
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+
+# 以下规则可自行测试能否直连，不能直连的话设置为海外代理
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,livednow.org
+DOMAIN-SUFFIX,wx.sb
