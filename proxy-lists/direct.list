@@ -9,5 +9,7 @@ DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,pan666.net
+DOMAIN-SUFFIX,1lou.me
 
 IP-CIDR,183.207.0.0/16,DIRECT,no-resolve
